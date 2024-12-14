@@ -1,4 +1,4 @@
-# Epic-Games-Gen
+# Epic-Games-Gen V3 ( PROXY SUPP )
 
 ---> This was leaked by some gay so i updated it with proxy support
 
